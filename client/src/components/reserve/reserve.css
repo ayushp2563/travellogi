@@ -55,7 +55,7 @@
   .rSelectRooms{
     display: flex;
     flex-wrap: wrap;
-    gap: 5px;
+    gap: 5px; 
     font-size: 8px;
     color: gray;
   }
